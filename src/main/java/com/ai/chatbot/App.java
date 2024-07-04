@@ -44,12 +44,12 @@ public class App {
             String category = categorizer.getBestCategory(outcomes);
 
             // Debugging lines
-            System.out.println("Categorized as: " + category);
-            System.out.println("Outcomes:");
-            for (int i = 0; i < categorizer.getNumberOfCategories(); i++) {
+            //System.out.println("Categorized as: " + category);
+            //System.out.println("Outcomes:");
+            /*for (int i = 0; i < categorizer.getNumberOfCategories(); i++) {
                 System.out.println(categorizer.getCategory(i) + ": " + outcomes[i]);
                  
-            }
+            }*/
             // as we have only 3 categories
             if (outcomes[0] == 0.3333333333333333 && outcomes[1] == 0.3333333333333333 && outcomes[2] == 0.3333333333333333 ){category = "unknown";}
 
