@@ -1,0 +1,94 @@
+greeting   Hello
+greeting   Hi
+greeting   Hey
+greeting   Greetings
+greeting   Good morning
+greeting   Good afternoon
+greeting   Good evening
+greeting   Hi there
+greeting   Hello there
+greeting   Hey there
+greeting   Howdy
+greeting   What's up
+greeting   hello
+greeting   hi
+greeting   hey
+greeting   greetings
+greeting   good morning
+greeting   good afternoon
+greeting   good evening
+greeting   hi there
+greeting   hello there
+greeting   hey there
+greeting   howdy
+greeting   what's up
+goodbye    goodbye
+goodbye    see you
+goodbye    see you later
+goodbye    bye
+goodbye    bye bye
+goodbye    take care
+goodbye    farewell
+goodbye    catch you later
+goodbye    later
+goodbye    Goodbye
+goodbye    See you
+goodbye    See you later
+goodbye    Bye
+goodbye    Bye bye
+goodbye    Take care
+goodbye    Farewell
+goodbye    Catch you later
+goodbye    Later
+question   What
+question   Where
+question   when
+question   why
+question   How
+question   Do
+question   Does
+question   Did
+question   Have
+question   Has
+question   Had
+question   Should
+question   Would
+question   Will
+question   ?
+question   !
+question   What is your name?
+question   How are you?
+question   What can you do?
+question   What's the weather like?
+question   Do you like pizza?
+question   How old are you?
+question   Where are you from?
+question   What time is it?
+question   Tell me a joke
+question   What is the capital of France?
+question   What is the square root of 16?
+question   what
+question   where
+question   when
+question   why
+question   how
+question   do
+question   does
+question   did
+question   have
+question   has
+question   had
+question   should
+question   would
+question   will
+question   what is your name?
+question   how are you?
+question   what can you do?
+question   what's the weather like?
+question   do you like pizza?
+question   how old are you?
+question   where are you from?
+question   what time is it?
+question   tell me a joke
+question   what is the capital of france?
+question   what is the square root of 16?
